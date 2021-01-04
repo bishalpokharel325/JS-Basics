@@ -1,0 +1,24 @@
+UI brians+ W3 School + 
+
+#1) Introduction:
+
+HTML: develop layout of website
+CSS: for look and feel and presentation styling of website
+Bootstrap: Library of html and css to create some complex UIs
+
+Why JavaScript?
+
+HTML and CSS le banako websites heru Static hunchan not dynamic
+i.e content will never change: image, text, data never changes
+to apply dynamic effect in website in client site we use JS
+
+For instance: In calculator web site: We use HTML to create basic layout for
+buttons, text box, etc. CSS to add colors borders and modern looking
+But will calculator works?? noooo .... so to make calculator working we need JS
+
+Course Content: 3 Categories:
+
+1st: 
+
+
+
